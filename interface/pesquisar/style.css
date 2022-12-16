@@ -1,0 +1,48 @@
+.box-pesquisar {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #0094C6;
+    height: 40px;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+.btn-pesquisar{
+    color: #0094C6;
+    float: right;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 2s;
+}
+
+.txt-pesquisar {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    padding: 0; 
+    color: #fff;
+    font-size: 16px;
+    transition: 0.4s;
+    line-height: 40px;
+    width: 0px;
+}
+
+.txt-pesquisar::placeholder{
+    color: #fff;
+}
+
+.box-pesquisar:hover > .txt-pesquisar{
+    width: 240px;
+    padding: 0 6px;
+}
+.box-pesquisar:hover > .btn-pesquisar{
+    background: #fff;
+}
