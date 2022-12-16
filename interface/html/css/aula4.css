@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    color: #fff;
+    font-family: Verdana, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #333;
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+header {
+    width: 100%;
+    height: auto; /* tamanho do que tiver dentro do componente */
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #9400D3;
+    font-size: 40px;
+}
+
+table {
+    width: 500px;
+}
+
+table, th, td {
+    border: 1px solid #fff;
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+
+ol, ul {
+    width: 30%;
+    margin: auto;
+    background-color: #000;
+}
+
+#container{
+    width: 600px;
+    height: 400px;
+    border: 5px solid #fff;
+    margin: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#container div{
+    width: 60px;
+    height: 60px;
+    background-color: #FF8C00;
+    border: 2px solid #000;
+}
+
+p.pequena {
+    font-size: 10px;
+}
+
+img.pequena {
+    width: 150px;
+    height: 150px;
+}
+
+.media {
+    width: 250px;
+    height: 250px;
+}
+
+.grande {
+    width: 350px;
+    height: 350px;
+}
+
+.borda {
+    border: 5px solid #FF8C00;
+}
+
+nav{
+    height: 100px;
+    background-color: #fff;
+    width: 200px;
+}
+
+nav a{
+    color:rgb(5, 141, 11);
+    text-decoration: none;
+    font-weight: bold;
+    display: block; /* vizualização em bloco */
+}
+
+nav a:hover {
+    color: #FF8C00;
+    background-color: #333;
+    font-size: 12px;
+    transition: 2s all;
+}

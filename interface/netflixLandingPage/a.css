@@ -1,0 +1,87 @@
+#section-bio{
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 0% 5% 0% 3.5%;
+    background-color: #001242;
+    margin-top: 15px;
+}
+
+#categ-bio{
+    width: 100%;
+    display: block;
+    width: 50%;
+    background-color: green;
+    height: auto;
+}
+
+#categ-bio p{
+    margin-top: 20px;
+    font-size: 16px;
+    background-color: rgb(187, 0, 125);
+}
+
+#categ-bio h3{
+    font-size: 30px;
+    margin-top: 35px;
+    background-color: rgb(143, 0, 0);
+}
+
+#img-bio{
+    position: relative;
+    background-color: aqua;
+    width: 50%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#img-bio img{
+    width: 400px;
+    height: 400px;  
+}
+
+#section-bio article{
+    width: 100%;
+    background-color: rgb(247, 242, 0);
+}
+
+/* Slider Bio 
+.linha-slider {
+    position: relative;
+    color: white;
+    margin-left: 20px;
+    background-color: chartreuse;
+  }
+
+.linha-posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+    background-color: blueviolet;
+  }
+
+  .linha-poster {
+    object-fit: contain;
+    width: 100%;
+    max-height: 200px;
+    margin-right: 10px;
+    transition: transform 450ms;
+  }
+  
+  .linha-poster:hover {
+    transform: scale(1.28);
+  }
+  
+  .linha-posters::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .linha-poster-largo {
+    max-height: 250px;
+  }
+  
+  .linha-poster-largo:hover {
+    transform: scale(1.29);
+  }

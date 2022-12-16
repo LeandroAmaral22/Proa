@@ -1,0 +1,318 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+
+body{
+    color: #FFF;
+    font-size: 16px;
+    background-attachment: fixed;
+    background-image: url(imagens/sorvete.jpg);
+    font-family:tahoma;
+ }
+
+main{
+    position: relative;
+    width:90%;
+    background-color: rgba(0, 0, 0, 0.554);
+    height:auto;
+    margin:auto;
+   }
+
+#cabecalho{
+    position:relative;
+    width:100%;
+    background-color:#fff;
+    height:200px;
+    background-image: url("imagens/loja.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}   
+
+#menu_acima{
+    position: absolute;
+    width:40%;
+    height:40px;
+   /* background-color:rgb(143, 165, 221);*/
+    top:120px;
+    right:5%;
+}
+
+#menu_acima a{
+    width:20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    float:left;
+  background-color:rgb(255, 255, 255);
+    color:rgb(10, 146, 187);
+    text-decoration: none;
+    transition:1s all;
+    font-size:14px;
+}
+
+#menu_acima a:hover{
+     margin-top:10px;
+    color:rgba(113, 5, 5, 0);
+    transition:2s all;
+}
+ #q_somos{
+    position: relative;
+    width:96%;
+    background-color:rgb(7, 159, 219);
+    height:350px;
+    margin-top:15px;
+    padding: 2%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+ }
+
+ .texto_qsomos{
+    position: relative;
+    width:40%;
+    height:250px;
+    padding:2.5%;
+    color: #000;
+    background-color:rgb(255, 255, 255);
+ }
+
+ .img_qsomos{
+    position: relative;
+    width:45%;
+    height:300px;
+    /*padding:2.5%;*/
+    background-color:rgb(139, 0, 0);
+ }
+ .img_qsomos img{
+     width:100%;
+     height:100%;
+ }
+
+ #instrumentos{
+    position: relative;
+    width:96%;
+    background-color:rgb(242, 252, 252);
+    height:350px;
+    margin-top:15px;
+    padding: 2%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+
+ .promocao{
+    position: relative;
+    width:20%;
+    background-color:rgb(249, 251, 251);
+    height:350px;
+    border-radius: 10px;
+    text-align: center;
+    color:#000;
+ }
+
+ .promocao img{
+     width: 50%;
+     height:50%;
+ }
+
+ h4{
+     color:rgb(7, 214, 0);
+ }
+
+ #endereco{
+    position: relative;
+    width:96%;
+    background-color:rgb(7, 159, 219);
+    height:350px;
+    margin-top:15px;
+    padding: 2%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+
+ #mapa{
+     border-radius: 10px;
+     position: relative;
+ }
+
+ #contato{
+    position: relative;
+    width:96%;
+    background-color:rgb(255, 255, 255);
+    height:400px;
+    margin-top:15px;
+    padding: 1%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+
+ .formulario{
+    position: relative;
+    width:50%;
+  /*  background-color:rgb(25, 25, 115);*/
+    height:350px;
+    text-align:left;
+    color:#000;
+    padding:1%;
+   /* text-align: center;*/
+
+ }
+input,textarea,fieldset, button{
+    border:1px solid;
+    border-radius: 5px;
+}
+fieldset, input,button{
+    padding:2%;
+    width:80%;
+    margin:auto;
+    }
+
+    .midias{
+        position: relative;
+        width:40%;
+      /*background-color:rgb(63, 194, 194);*/
+        height:200px;
+        text-align:center;
+        color:#000;
+        padding:1%;
+        padding-top:100px;
+    }
+    .midias img{
+        width:20%;
+    }
+
+    .midias h1{
+        color:rgb(7, 159, 219);
+    }
+
+ #rodape{
+    position: relative;
+    width:100%;
+    background-color:rgb(0, 0, 0);
+    height:130px;
+    margin-top:15px;
+    color:#CCC;
+    text-align: center;
+    padding-top:20px;
+   }
+
+   #rodape img{
+       width:2.5%;
+       margin:1%;
+   }
+
+   #rodape h4{
+       color:#CCC;
+   }
+
+   	
+/* visualização smartphone 
+	
+@media only screen and (max-width:576px)
+{
+
+body{
+			margin:0;
+		}
+		#fundo{
+		width:95%;
+		margin:auto;
+		}		
+	#menu_acima{
+	width:100%;
+	display:flex;
+	flex-direction:column;
+	height:250px;
+	background-color:transparent;
+		}
+			
+		#menu_acima a{
+		width:100%;
+		height:30px;
+		display:block;
+		color:#FFF;
+		}
+	
+		#menu_lateral, 	#banner, #imagem, #texto{
+	display:none;
+	}
+	
+	#titulo2{
+		height:80px;
+		width:100%;
+		}
+
+		#meio{
+		height:690px;
+		width:100%;
+		}
+		
+	#figuras{
+	display:flex;
+	flex-direction:column;
+	height:580px;
+				}
+			
+	#figuras div{
+	width:100%;
+	height:190px;
+	display:block;
+		}
+	
+
+	
+}
+	*/
+
+/* visualização no tablet */
+
+@media only screen and (min-width:577px){
+ @media only screen and (max-width:768px)
+{
+	
+	body{
+			margin:0;
+		}
+
+	main{
+		width:95%;
+		margin:auto;
+		}
+
+        #q_somos{
+            height:auto;
+        }
+
+        .texto_qsomos{
+            height:auto;
+        }
+
+
+
+        #instrumentos{
+            position: relative;
+            width:100%;
+            background-color:rgb(105, 118, 118);
+            height:auto;
+            margin-top:15px;
+          display:block
+         }
+        
+         .promocao{
+            position: relative;
+            width:50%;
+            background-color:rgb(249, 251, 251);
+            height:350px;
+            border-radius: 10px;
+            text-align: center;
+            color:#000;
+            float:left;
+         }
+	
+}
+}

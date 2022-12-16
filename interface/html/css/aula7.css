@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+main {
+    position: relative;
+    width: 90%;
+    height: auto;
+    background-color: aqua;
+    margin: auto;
+}
+
+h1 {
+    color: #f00;
+}
+
+p {
+    color: #00f;
+}
+
+#floater {
+    position: absolute;
+    width: 300px;
+    height: 200px; 
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    top: 150px;
+    left: 150px;
+    z-index: 2;
+}
+
+#menu {
+    position: relative;
+    width: 100%;
+    height: 40px;
+}
+
+#menu a{
+    width: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    float: left;
+    background-color: red;
+}
+
+#container {
+    position: relative;
+    width: 95%;
+    height: 350px;
+    background-color: #fD0;
+    display: flex;
+    flex-direction: row; /* já está em linha */
+    align-items: center;
+    justify-content: space-around;
+}
+
+#container div {
+    width: 25%;
+    height: 100px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+@media screen and (max-width:480px){
+    h1 {
+        color: #0f0;
+    }
+    p {
+        color: #fD0;
+    }
+    main {
+        width: 100%;
+    }
+
+    #floater {
+        display: none;
+    }
+
+    #menu {
+        height: auto;
+    }
+
+    #menu a{
+        height: auto;
+        display: block;
+        width: 100%;
+        margin: 1px;
+    }
+
+    #container{
+        width: 100%;
+        flex-direction: column;
+    }
+
+    #container div{
+        width: 50%;
+    }
+}

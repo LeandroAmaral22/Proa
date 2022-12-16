@@ -1,0 +1,20 @@
+Video (Diferenças entre UX, UI e Design Gráfico (Habilidades & Softwares)) - https://www.youtube.com/watch?v=YpuimX2UmJc
+Video (O que é acessibilidade) - https://www.youtube.com/watch?v=sO42iMDUWUw
+Esquema de Cores - https://kinsta.com/pt/blog/esquemas-de-cores-site/
+
+Design Gráfico - forma de comunicação expressada com elementos visuais(imagens, textos e gráficos)
+Exemplos Ilustração, Fotografia, embalagem.
+
+Fundamentos do design - formas e imagens, teoria das cores, tipo grafica, layout e composição
+
+UX Design - Entender e resolver problemas focados no usuário. UX envolve usabilidade acessibilidade e quanto agradável é a relação entre o usuário e seu produto.
+Habilidades/Responsabilidades
+Pesquisa de descoberta
+User Journey Personas
+Wireframes
+Teste de usabilidade
+
+UI Design - é alinguagem visual de um produto a qual é reponsavel pela criação e organização de todos os elementos visuais
+da interface. Também é, muitas vezes, reponsável pela interação qie o usuário tem ao navegar pelo site ou aplicativo.
+
+ 

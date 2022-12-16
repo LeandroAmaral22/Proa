@@ -1,0 +1,35 @@
+main {
+    position: relative;
+    width: 600px;
+    height: 500px;
+    background-color: #ccc;
+    margin: auto;
+    background-image: url(/img/estrada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; /* encaixa a imagem no fundo */
+}
+
+#camada1,#camada2,#camada3 {
+    position: relative;
+    width: 170px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid;
+    text-align: center;
+    padding: 5px;
+    float: left;
+}
+
+#camada1 img {
+    width: 100%;
+    height: 100%;
+}
+
+#camada2 {
+    background-color: yellow;
+}
+
+#camada3 {
+    background-color: green;
+    clear: both; /*quebra as duas sequencias left e right */
+}

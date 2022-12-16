@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 10 - Formulário</title>
+</head>
+<body>
+    <form action="http://cadastro.com.br/repositorio.jsp" name="Cadastro_teste">
+        <fieldset>
+            <legend>Cadastro</legend>
+            <label for="nome">Nome: </label>
+            <input type="text" name="nome" id="nome" size="50" maxlength="50" required placeholder="Digite o seu nome">
+            <br><br>
+            <label for="email">Email: </label>
+            <input type="email" name="email" id="email" size="50" maxlength="" placeholder="Digite o seu email">
+            <br><br>
+            <label for="senha">Senha</label>
+            <input type="password" name="senha" size="13" maxlength="15" placeholder="Digite sua senha" required>
+            <br><br>
+            <label for="resp">Você ultiliza nosso site frequentemente?</label>
+            <input type="radio" name="resp" value="sim"> Sim
+            <input type="radio" name="resp" value="nao"> Não
+            <br><br>
+            <label for="opecoes">Quais browsers você utiliza?</label>
+            <input type="checkbox" name="opcao1" value="fire">Firefox
+            <input type="checkbox" name="opcao1" value="chro">Chrome
+            <input type="checkbox" name="opcao1" value="IE">Internet
+            <input type="checkbox" name="opcao1" value="safari">Safari
+            <input type="checkbox" name="opcao1" value="opera">Opera
+            <br><br>
+            <label for="opcao">Selecione uma área de atuação: </label>
+            <select name="opcao" id="opcao">
+                <option>Marketing</option>
+                <option>Comercial</option>
+                <option>Vendas</option>
+                <option>Web</option>
+                <option>Administração</option>
+            </select>
+            <br><br>
+            <textarea name="comentario" id="comentario" cols="30" rows="10" placeholder="Comente aqui:"></textarea>
+            <br><br>
+            <label>Selecione um número:</label>
+            <input type="number" min="10" max="20">
+            <br><br>
+            <label>Selecione uma data:</label>
+            <input type="date" min="10" max="20">
+            <br><br>
+            <progress value="70" max="100"> 70% </progress>
+            <br><br>
+            <meter min="0" max="100" low="40" high="90" optimum="100" value="60"></meter>
+            <br><br>
+            <input type="search" url="#">
+            <br><br>
+            <label>Escolha a cor:</label>
+            <input type="color">
+            <br><br>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </fieldset>
+    </form>
+</body>
+</html>

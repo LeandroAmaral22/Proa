@@ -1,0 +1,210 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #111;
+  }
+  header{
+    background-image: url(imagens/spyXfamily.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+    
+  }
+   /* banner */
+   .banner {
+    background-image: url('images/banner.jpg');
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    object-fit: contain;
+    height: 448px;
+  }
+  
+  .conteudo {
+    margin-left: 30px;
+    padding-top: 140px;
+    height: 190px;
+  }
+  
+  .banner-titulo {
+    font-size: 3rem;
+    font-weight: 800;
+    padding-bottom: 0.3rem;
+  }
+  
+  .banner-descricao {
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    max-width: 360px;
+    height: 180px;
+  }
+  
+  .banner-botao {
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    border: none;
+    width: auto;
+    font-weight: 700;
+    border-radius: 0.2vw;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  .banner-botao1{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    outline: none;
+    border: none;
+    width: auto;
+    background-color: #fff;
+    font-weight: 700;
+    border-radius: 0.2vw;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  
+  .banner-botao:hover {
+    color: #000;
+    transition: all 0.2s;
+  }
+  .banner-botao1:hover{
+    background-color: #aaa;
+  }
+  
+  .banner-dissolver {
+    margin-top: 192px;
+    height: 7.4rem;
+    background-image: linear-gradient(180deg, transparent, rgba(37, 37, 37, 0.61), #111);
+  }
+  
+  /* nav */
+  
+  .logo {
+    width: 80px;
+    object-fit: contain;
+  }
+  
+  .perfil {
+    width: 30px;
+    object-fit: contain;
+  }
+  
+  .nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    z-index: 1;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+  }
+  
+  .nav__black {
+    background-color: #111;
+  }
+  .navegacao{
+    margin:0;
+    padding: 0;
+}
+
+.navegacao ul{
+   display: flex;
+   align-items: center;
+   gap:40px;
+}
+.navegacao ul li a{
+   color: rgb(255, 255, 255);
+   font-size: 14px;
+   padding-bottom: 5px;
+   border-bottom: 2px solid transparent;
+   transition: all .6s;
+}
+
+.navegacao ul li a:hover{
+   border-bottom: 2px solid #e90000;
+}
+.navegacao .perfil{
+   width: 40px;
+   cursor: pointer;
+   height: 40px;
+}
+  
+  .linha-posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+  }
+  
+  .linha-poster {
+    object-fit: contain;
+    width: 100%;
+    max-height: 200px;
+    margin-right: 10px;
+    transition: transform 450ms;
+  }
+  
+  .linha-poster:hover {
+    transform: scale(1.28);
+  }
+  
+  .linha-posters::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .linha-poster-largo {
+    max-height: 250px;
+  }
+  
+  .linha-poster-largo:hover {
+    transform: scale(1.29);
+  }
+  
+  .linha-slider {
+    color: white;
+    margin-left: 20px;
+  }
+  
+/* footer */
+footer{
+  margin: 50px auto 0px auto;
+  width: 100%;
+  display: flex;
+  height: auto;
+}
+footer a{
+  height: auto;
+}
+footer svg{
+  height: auto;
+  margin-left: 20px;
+}
+footer ul{
+  width: 20%;
+  margin-top: 50px;
+}
+footer ul li{
+  margin: 20px 0px;
+  color: rgb(180, 180, 180);
+}
+
+footer ul li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}

@@ -1,0 +1,307 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+    color: #fff;
+}
+
+main {
+    width: 100%;
+    height: 900px;
+    background-color: #ccc;
+}
+
+#container-top {
+    position: relative;
+    width: 100%;
+    height: 56px;
+    background-color: #303030;
+    display: flex;
+    flex-direction: row;
+}
+
+#menu {
+    width: 5%;
+    height: 56px;
+}
+
+#menu div {
+    width: 50%;
+    height: 50%;
+    margin-left: 32%;
+    margin-top: 25%;
+}
+
+#logo-container {
+    width: 10%;
+    height: 56px;
+}
+
+#logo-container img {
+    width: 70%;
+    height: 30%;
+    margin-top: 20px;
+}
+
+#center {
+    width: 60%;
+    height: 56px;
+}
+
+#container-itens {
+    width: 100%;
+    height: 70%;
+    margin-top: 9px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#caixa1 {
+    width: 5%;
+    height: 100%;
+}
+
+#form {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#buscar {
+    width: 85%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+#buscar input {
+    position: relative;
+    padding: 2px 6px;
+    margin-left: 120px;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+    background-color: #303030;
+    color: #fff;
+}
+
+#btn-buscar {
+    width: 9%;
+    background-color: #414141;
+}
+
+#btn-buscar img {
+    width: 25px;
+}
+
+#micro-fone {
+    width: 6%;
+    height: 100%;
+    border-radius: 70%;
+    margin-left: 10px;
+    background-color: #202020;
+    margin: auto;
+    margin-left: 10px;
+}
+
+#micro-fone img {
+    width: 50%;
+    height: 60%;
+    margin-left: 12px;
+    margin-top: 7px;
+}
+
+#right {
+    width: 25%;
+    height: 56px;
+}
+
+#container-direita {
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    margin-top: 9px;
+    background-color: #303030;
+    display: flex;
+    justify-content: space-between;
+}
+
+#container-direita div {
+    width: 20%;
+    display: flex;
+}
+
+#icon-upload a {
+    margin: auto;
+}
+
+#icon-upload img {
+    width: 100%;
+    height: 50%;
+}
+
+#img-conta a {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+
+#img-conta img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#notificacao a {
+    width: 70%;
+    height: 70%;
+    margin: auto;
+}
+
+#notificacao img {
+    width: 100%;
+    height: 100%;
+}
+
+#container-esquerda {
+    position: relative;
+    width: 5%;
+    height: 858px;
+    background-color: #303030;
+    float: left;
+}
+
+#nav-esquerda {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#nav-esquerda a {
+    width: 100%;
+    height: 20%;
+    text-decoration: none;
+    color: #fff;
+    font-size: 10px;
+    text-align: center;
+}
+
+#nav-esquerda a:hover {
+    background-color: #414141;
+    transition: 1s all;
+}
+
+#nav-esquerda p {
+    margin-top: 5px;
+}
+
+#nav-esquerda img {
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+}
+
+.categorias {
+    width: 90%;
+    padding: 1rem 2rem;
+    border-top: 1px solid #999;
+    border-bottom: 1px solid #999;
+    float: left;
+    color: #fff;
+    background-color: #303030;
+}
+
+.categoria-section {
+    display: flex;
+}
+
+.categoria {
+    margin-right: 1rem;
+    word-wrap: none;
+    white-space: nowrap;
+    border-radius: 900px;
+    background-color: #606060;
+    padding: .5rem 1rem;
+    font-size: 15px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #606060;
+}
+
+.categoria:hover {
+    background-color: #818181;
+    transition: 0.5s all;
+}
+
+.categoria.categoria-ativa {
+    background-color: #fff;
+    color: #000;
+}
+
+#videos{
+    width: 95%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+
+#video-container{
+    position: relative;
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #202020;
+}
+
+.conteudo{
+    width: 23%;
+    height: 90%;
+    margin-top: 12px;
+}
+
+.conteudo .thumb{
+    width: 100%;
+    height: 65%;
+}
+
+.conteudo .title{
+    text-decoration: none;
+    display: flex;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.nome-canal{
+    color: #afafaf;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    margin-bottom: 6px;
+    transition: 0.5s;
+}
+
+.nome-canal:hover{
+    color: #fff;
+}
+
+.dados-video{
+    color: #afafaf;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+}
