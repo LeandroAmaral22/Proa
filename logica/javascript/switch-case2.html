@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switch Case</title>
+</head>
+<body>
+    <h1> Combos McDonald's</h1>
+
+    <script>
+
+        let combo = parseInt(prompt("Selecione uma opção: (1)-BigMac (2)-Quarterão (3)-McChicken (4)-McTasty (5)-McMelt"));
+
+        switch(combo){
+            case 1: console.log("Big Mac: <br> 1 BigMac + Batata Frita Pequena + Refrigerante <br> R$24,90");
+            break;
+            case 2: document.write("Quarterão: <br> 1 Quarterão + Batata Frita Grande + Refrigerante + Sundae <br> R$27,90");
+            break;
+            case 3: document.write("McChicken: <br> 1 McChicken + Batata Frita pequena + Refrigerante + Nuggets<br> R$31,90");
+            break;
+            case 4: document.write("McTasty: <br> 1 McTasty + Batata Frita Média + Refrigerante <br> R$28,90");
+            break;
+            case 5: document.write("McMelt: <br> 1 MecMelt + Batata Frita Grande + Refrigerante + 2 Tortas <br> R$30,90");
+            break;
+            default: document.write("Combo Inválido");
+        }
+    </script>
+</body>
+</html>

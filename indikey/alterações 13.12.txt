@@ -1,0 +1,81 @@
+OrderServiceImpl
+
+//    @Override
+//    @Transactional
+//    public OrderModel insert(OrderDTO dto) {
+//        Integer idClient = dto.getClient();
+//
+//        ClientModel client = clientRepository.findById(idClient)
+//                .orElseThrow(() -> new DatabaseException("Usuário não encontrado!"));
+//
+//        OrderModel order = new OrderModel();
+//        order.setTotal(dto.getTotal());
+//        order.setOrderDate(LocalDate.now());
+//        order.setClientModel(client);
+//
+//        List<OrderItemModel> OrderItems = convertItems(order, dto.getItems());
+//
+//        repository.save(order);
+//
+//        orderItemRepository.saveAll(OrderItems);
+//        order.setItems(OrderItems);
+//
+//        return order;
+//    }
+
+
+//    @Transactional
+//    public OrderDTO findById(Integer id){
+//        Optional<OrderModel> obj = repository.findById(id);
+//        OrderModel entity = obj.orElseThrow(() -> new ResourceNotFoundException("Entity not found"));
+//        return new OrderDTO(entity, entity.getItems());
+//    }
+
+//    @Transactional
+//    public List<OrderDTO> findAll() {
+//        List<OrderModel> list = repository.findAll();
+//        return list.stream().map(x -> new OrderDTO(x)).collect(Collectors.toList());
+//    }
+
+
+//    @Transactional
+//    public OrderDTO update(Integer id, OrderDTO dto) {
+//        try{
+//            OrderModel entity = repository.getReferenceById(id);
+//            copyDtoToEntity(dto, entity);
+//
+//            entity = repository.save(entity);
+//
+//            return new OrderDTO(entity);
+//        }catch (EntityNotFoundException e) {
+//            throw new ResourceNotFoundException("Id not found " + id);
+//        }
+//    }
+
+
+@Controller Order
+
+//    @PostMapping
+//    @ResponseStatus(HttpStatus.CREATED)
+//    public Integer insert(@RequestBody OrderDTO dto){
+//        OrderModel order = service.insert(dto);
+//        return order.getId();
+//    }
+
+//    @GetMapping
+//    public ResponseEntity<List<OrderDTO>> findAll(){
+//        List<OrderDTO> list = service.findAll();
+//        return ResponseEntity.ok().body(list);
+//    }
+
+//    @GetMapping(value = "/{id}")
+//    public ResponseEntity<OrderDTO> findById(@PathVariable Integer id){
+//        OrderDTO dto = service.findById(id);
+//        return ResponseEntity.ok().body(dto);
+//    }
+//
+//    @PutMapping(value = "/{id}")
+//    public ResponseEntity<OrderDTO> update(@PathVariable Integer id, @RequestBody OrderDTO dto){
+//        dto = service.update(id, dto);
+//        return ResponseEntity.ok().body(dto);
+//    }

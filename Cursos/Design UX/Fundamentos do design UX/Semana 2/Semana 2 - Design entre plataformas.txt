@@ -1,0 +1,43 @@
+Uma plataforma é o meio que os usuários usam parainteragir com seu produto,
+como um desktop, web e aplicativos para celular, tablets, portáteis, TVs, 
+telas inteligentes e muito mais. É importante projetar pensando em várias plataformas, 
+porque os usuários querem que o produto tenha um visual e sensação similares,
+independentemente da plataforma que estejam usando.
+
+O web design responsivo permite que um site mude automaticamente, dependendo do tamanho do dispositivo.
+Por exemplo, a página inicial de um site pode ter várias colunas quando um usuário acessa em um computador desktop.
+Com o web design responsivo, quando um usuário acessa o mesmo site em um celular, as várias colunas são condensadas
+automaticamente em uma única coluna para caber melhor em uma tela menor. Todo o conteúdo ainda está lá e a usabilidade
+é muito melhor.
+
+Primeiro, os botões de chamada para a ação devem ser colocados em destaque, permitindo que o usuário conclua facilmente 
+a tarefa desejada, como entrar em uma lista de e-mail ou adicionar um item ao carrinho de compras. Em segundo lugar, 
+menus de navegação devem ser curtos e simples. Queremos simplificar a experiência do usuário no celular. Portanto, 
+as opções do menu devem destacar apenas as principais funções do produto. Terceiro, use gestos que os usuários já fazem, 
+como tocar e deslizar. Os gestos devem ser intuitivos e familiares para os usuários. Quarto, projete para ambas as direções
+em que o celular pode ser segurado. Precisamos considerar a exibição vertical do modo retrato do celular e a visão horizontal
+do modo paisagem. Queremos que os usuários tenham uma experiência eficiente, independentemente de como seguram o celular.
+Quinto, reduza a confusão visual. Os celulares têm telas menores, por isso, é importante manter a experiência visual simples.
+
+Para que seu design tenha sucesso em todas as plataformas, você precisa oferecer aos usuários uma boa experiência, 
+independente da plataforma que eles usam! Como designer de UX, seu trabalho é garantir que os designs levem em consideração e
+aproveitem ao máximo os recursos exclusivos de cada plataforma. Ao preparar o design para várias plataformas, é útil ter em mente
+os quatro Cs: consistência, continuidade, contexto e complementaridade.  
+
+Consistência: a maioria das empresas tem diretrizes específicas de design que precisam ser seguidas para manter a consistência com
+a identidade da marca, ou seja, a aparência visual e a voz da empresa. Ao projetar um produto, é essencial permanecer fiel às diretrizes
+de marca da empresa para manter a consistência entre as plataformas e impulsionar o conhecimento da marca. Um design consistente ajuda a
+melhorar a experiência do usuário e a gerar confiança, porque é possível que os usuários esperem que o design seja familiar em todas as
+plataformas e produtos.
+
+Continuidade: para fornecer aos usuários uma experiência perfeita entre as plataformas, os designers de UX também precisam priorizar a
+continuidade. No design, continuidade significa que os usuários podem manter o progresso de uma plataforma para a outra. A experiência
+do usuário em cada plataforma pode ser um pouco diferente, mas a funcionalidade do produto ainda deve estar conectada. Sem continuidade,
+os usuários poderão ficar frustrados se o progresso da experiência não for transferido entre as plataformas.
+
+Contexto: também é importante considerar o contexto de cada plataforma para a qual você projeta. Isso significa pensar sobre quando e como 
+os usuários preferem interagir com determinados recursos em diferentes plataformas.
+
+Complementariedade: uma maneira de criar uma ótima experiência do usuário entre plataformas é garantir que o design de cada plataforma acrescente
+algo novo para o usuário. A melhor maneira de criar designs UX complementares é considerar como cada plataforma pode enriquecer de maneira única
+a experiência geral do usuário.

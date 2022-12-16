@@ -1,0 +1,28 @@
+Sacar dinheiro no Banco
+
+- Vou até a fila par utilizar os caixas (caso tenha)
+- Espero até a minha vez
+- Vizualizo se tem um caixa vazio
+- Me direciono ao caixa eletronico de saque
+- Pego a carteira
+- Pego o cartão da carteira
+- Insero o cartão corretamente
+- Seleciono a operação de saldo
+- Informo a senha
+- Verifico o saldo disponivel
+- Seleciono a opção fazer outra operação
+- Seleciono a operação saque
+- Digito a quantidade
+- Aguardo
+- Digito a senha
+- Seleciono as notas disponíveis para saque
+- Aguardo
+- Pego a quantidade na boca do caixa
+- Verifico o valor 
+- Pego a carteira no bolso
+- Guardo o dinheiro
+- Finalizo a sessão
+- Retiro o cartão
+- Guardo o cartão na carteira
+- Guardo a carteira no bolso
+- Me retiro do banco.

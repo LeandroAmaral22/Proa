@@ -1,0 +1,113 @@
+---- Definir o usuário, o usuário final e a experiência do usuário ----
+
+User -> é qualquer pessoa que usa um produto.
+
+End user -> é o públic específico para o qual um designer de UX cria algo.
+
+User experience -> A experiência do usuário é como uma pessoa, o usuário, se sente quando interage com um produto. O objetivo de designers de UX
+é pensar sobre os problemas e necessidades do usuário final e projetar uma experiência que atenda a essas necessidades.
+
+- Pensar nos Problemas e Necessicades
+
+O produto é fácil de usar? O produto é equitativo? O produto agrada o usuário? O produto resolve o problema do usuário? 
+Responder sim a isso é o objetivo de uma boa experiência do usuário.
+
+Por que é importante que os designs sejam centrados no usuário? Porque o usuário compra e usa o seu produto. Além disso, também é importante
+ resolver problemas que as pessoas realmente enfrentam
+
+O design centrado no usuário é definido como uma estrutura que coloca o usuário em primeiro lugar. Nessa abordagem, os designers precisam considerar
+a história, as emoções e os insights coletados sobre o usuário.
+
+Para manter nosso foco no usuário, o processo de design centrado no usuário tem quatro etapas: entender, especificar, projetar e avaliar.
+
+Iteração significa fazer algo de novo, complementando as versões anteriores e fazendo ajustes.
+
+Quando se trata de avaliar a experiência do usuário, algumas perguntas-chave que um designer pode fazer são: O produto resolve o problema do usuário?
+O produto é equitativo? O produto é fácil de usar?
+
+---- Estruturas importantes no design de UX ----
+
+Framwork -> Uma estrutura é o que fundamenta e apoia o problema que você está tentando resolve
+
+A estrutura dos cinco elementos e a estrutura de design thinking. Os cinco elementos do design de UX são uma estrutura de etapas que um designer
+segue para transformar uma ideia em um produto funcional. 
+Essa estrutura é composta por 5 elementos: estratégia, escopo, estrutura, esqueleto e superfície.
+Cada elemento se refere a uma camada específica da criação da experiência do usuário, e cada camada depende daquela que está abaixo dela. A camada
+inferior é a estratégia. É nela que você definirá as necessidades do usuário e os objetivos comerciais. A próxima camada é o escopo. 
+Nela você determinará o que está criando. Você decidirá sobre os recursos e conteúdo do produto.
+A terceira camada é a estrutura. Você descobrirá como organizar seu design e como o usuário vai interagir com ele. A próxima camada é o esqueleto,
+que é um tipo de formato. Assim como o formato dos nossos ossos molda a pele, essa camada ajuda a detalhar como o design funciona, mas,
+assim como nossos ossos, o usuário não verá esse funcionamento interno. Em vez disso, você verá a superfície, que é o nível superior da experiência
+do usuário. A superfície é a aparência do produto para o usuário.
+
+O design thinking é uma maneira de criar soluções funcionais e acessíveis que atendam a um problema real do usuário. O design thinking tem cinco etapas:
+empatia, definição, idealização, protótipo e teste.
+
+Lean UX 
+O processo de Lean UX tem como foco reduzir o desperdício de tempo e de recursos, além de produzir um produto viável o mais rápido possível.
+O processo é iterativo, ou seja, a equipe continua atualizando e fazendo revisões no produto à medida que reúne pesquisas sobre o usuário e feedback das partes interessadas.
+
+
+O processo de Lean UX é dividido em três etapas: 
+
+Pensar. Explore os problemas que os usuários estão enfrentando e considere como você poderia resolvê-los com seu design. Essa etapa envolve reunir
+pesquisas,para que você possa ter uma ideia clara dos usuários e como o produto os ajudará.  
+
+Fazer. Comece a projetar o produto criando esboços, wireframes e protótipos. Você também criará um produto mínimo viável, ou MVP (na sigla em inglês)
+, que é um protótipo simples dos designs que você pode testar com o público-alvo. Prepare-se para voltar e atualizar seu protótipo conforme coleta
+feedback!
+
+Verificar. Descubra como os usuários reagem ao seu design e busque feedback das partes interessadas no projeto. Faça os ajustes necessários nos
+designs e repita as três etapas novamente se necessário.
+
+xistem seis princípios que você deve ter em mente ao usar o processo de Lean UX: 
+
+Avance. Concentre-se apenas nos elementos e recursos de design que movem o processo de design em direção a um objetivo específico.
+Não se distraia com aqueles elementos que "seria bom ter". 
+
+Tenha curiosidade: Lean UX significa usar feedback de usuários e partes interessadas para revisar e melhorar seus projetos. Busque feedback
+continuamente para entender por que determinadas escolhas de design funcionam ou não.
+
+Teste ideias no mundo real. O Lean UX incentiva designers a testar ideias (via protótipos, por exemplo) fora da sala de conferências
+e com usuários em potencial.
+
+Externalize suas ideias. Em vez de debater internamente e analisar se uma ideia vai ou não funcionar, transforme suas ideias em algo físico,
+visível e testável enquanto elas ainda estão frescas na sua mente. Assim, você receberá feedback sobre seus projetos nos estágios iniciais,
+o momento mais útil para descobrir diversas perspectivas e feedback. 
+
+Reformule as entregas como resultados. Concentre-se em criar produtos utilizáveis e agradáveis que os usuários realmente querem e de que precisam.
+Sempre tenha em mente que você está projetando para os usuários em primeiro lugar, não para as partes interessadas do projeto.
+
+Seja radicalmente transparente. Mantenha a honestidade com todos da equipe (e espere o mesmo em troca), porque vocês dependerão das percepções uns
+dos outros. Assim, todos podem tomar decisões informadas sobre como seguir em frente, evitando o desperdício de tempo e energia.
+O processo de Lean UX tem como ponto central a abertura ao feedback e revisões constantes pautadas na colaboração.
+
+Double Diamond é um processo de UX mais tradicional, que divide o design de UX em duas fases principais (ou “diamantes”): pesquisa e design.
+Cada fase tem duas etapas. Quando combinadas, estas são as quatro etapas:
+
+Descobrir o problema. Reúna informações sobre os possíveis problemas que os usuários estão enfrentando. 
+
+Definir o problema. Filtre os dados e concentre-se no problema principal que seu produto pretende resolver.
+
+Desenvolver soluções para o problema. Comece projetando seu produto como um trabalho em andamento. É aqui que wireframes e protótipos entram em jogo.
+
+Entregar o produto. Revise e teste seu produto para prepará-lo para o lançamento.
+Desafio: [Pesquisa] 1. Descobrir - concentre-se no usuário, 2. Definir - comunique-se
+(de maneira visual e inclusiva), [Design] 3. Desenvolver - colabore, 4. Entregar - itere.
+
+Existem quatro princípios que informam o processo Double Diamond:  
+
+Foco no usuário. Como em todo design de UX, o usuário é a prioridade.
+
+Comunicação. Comunique-se visualmente, por imagens e decisões de design que complementam o texto. Você também deve se certificar de que a comunicação
+ do projeto seja equitativa e acessível. Você aprenderá mais sobre isso nesta parte do programa.
+
+Colaboração. Um dos recursos exclusivos do processo Double Diamond é que ele incentiva a colaboração criativa e a cocriação com outros membros
+ da equipe. 
+
+Iteração. Aceite que o design é um trabalho em constante desenvolvimento e que não será concluído imediatamente. A mágica está na revisão.
+A cada iteração, você oferece ao usuário uma nova experiência.
+
+
+
+

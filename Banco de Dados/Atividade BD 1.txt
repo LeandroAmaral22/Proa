@@ -1,0 +1,21 @@
+Tabela 2 
+
+Tem inconsistencia em diversos atributos
+Como por exemplo Estado: está descrito em UF grande parte e alguns por extenso.
+
+Agência_banco tem campos nulos (vazios)
+
+Conta Corrente tem dados que tem pontos e traços, outros já não tem.
+
+Valor médio depósitos tem campos com casa depois da virgula e outros não, e um dado com R$.
+
+Conta cheque especial não tem um padrão de sim e não
+
+Gerente_Banco tem sobre nomes em alguns e outros não
+
+Poderia ser uma tabela Banco e outra Cliente
+
+Tabela 3
+
+Tem campos vazios, Telefones inconsistentes, uns com DDD e outros não, Cidade sem um padrão, tem UF, CEPS,
+Salário com R$ e outros não, Nascimento com horário.

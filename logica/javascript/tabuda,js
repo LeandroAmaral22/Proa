@@ -1,0 +1,7 @@
+
+let num = parseInt(prompt("Informe um número: "));
+
+for (let i = 0; i <= 10; i++) {
+    let result = num * i
+    document.write(num + " x " + i + " = " + result + "<br>");
+}

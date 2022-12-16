@@ -1,0 +1,32 @@
+Algoritimo Tomar banho
+
+- Pegar a toalha
+- Pegar roupas limpas
+- Ir ao banheiro
+- Bater na porta (caso esteja fechada)
+- Entrar no banheiro
+- Acender a luz
+- Fechar a porta do banheiro
+- Pendurar a toalha no boxer
+- Pendurar as roupas limpas no gancho
+- Tirar a roupa
+- Colocar as roupas que tirou no cesto de roupas sujas
+- Abrir o boxer
+- Entrar no boxer
+- Fechar o boxer
+- Ligar o chuveiro
+- Passar Shampoo no cabelo
+- Pegar a esponja
+- Passar o sabão na esponja
+- Esfregar a esponja no corpo
+- Enxaguar o cabelo
+- Enxaguar o corpo
+- Desligar o chuveiro
+- Pegar a toalha
+- Secar-se
+- Abrir o box
+- Sair do box
+- Pegar as roupas limpas penduradas
+- Vestir a roupa limpas
+- Desligar a luz
+- Sair do banheiro

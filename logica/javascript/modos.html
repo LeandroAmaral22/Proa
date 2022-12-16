@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        body img{
+            margin: auto;
+        }
+        
+        #myImage {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+        }
+
+    </style>
+</head>
+<body id="fundo">
+    <h1 id="title">Testando modo normal</h1>
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas voluptatibus deserunt molestiae quae at assumenda nesciunt consequatur in beatae repellat, exercitationem mollitia libero voluptate dignissimos temporibus eum autem eius nemo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos corrupti mollitia vero voluptatem, tempore dignissimos explicabo minus beatae libero excepturi sequi similique. Aliquid consequuntur nihil delectus totam sint accusantium odio.
+    </p>
+    <input type="button" id="escuro" value="modo escuro" onclick="modoEscuro()">
+    <input type="button" id="normal" value="modo normal" onclick="modoNormal()">
+    <input type="button" id="visao" value="A+" onclick="baixaVisao()">
+    <hr>
+    <img src="img/paisagem.jpg" id="myImage">
+    <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas voluptatibus deserunt molestiae quae at assumenda nesciunt consequatur in beatae repellat, exercitationem mollitia libero voluptate dignissimos temporibus eum autem eius nemo! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos corrupti mollitia vero voluptatem, tempore dignissimos explicabo minus beatae libero excepturi sequi similique. Aliquid consequuntur nihil delectus totam sint accusantium odio.
+    </p>
+
+    <script>
+        function modoEscuro(){
+            document.getElementById("fundo").style.backgroundColor="black";
+            document.getElementById("fundo").style.color="#ccc";
+            document.getElementById("myImage").src="img/batman.jpg";    
+            document.getElementById("title").innerHTML="Testando modo escuro";
+        }
+
+        function baixaVisao(){
+            document.getElementById("myImage").src="img/miranha.jpg";    
+            document.getElementById("title").innerHTML="Testando modo baixa visão";
+            document.getElementById("title").style.fontSize="40px";
+            document.getElementById("texto").style.fontSize="30px";
+        }
+
+        function modoNormal(){
+            document.getElementById("fundo").style.backgroundColor="white";
+            document.getElementById("fundo").style.color="black";
+            document.getElementById("myImage").src="img/paisagem.jpg";    
+            document.getElementById("title").innerHTML="Testando modo normal";
+        }
+
+    </script>
+</body>
+</html>

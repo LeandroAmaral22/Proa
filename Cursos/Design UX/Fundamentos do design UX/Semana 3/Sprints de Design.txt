@@ -1,0 +1,70 @@
+Semana 3
+
+Metodologia Design Sprints
+
+O Design Sprint é uma metodologia comprovada para
+resolver problemas por meio de design, prototipagem
+e teste de ideias com usuários. Os Design Sprints 
+alinham rapidamente as equipes sob uma visão 
+compartilhada com metas e resultados claramente 
+definidos. Em última análise, é uma ferramenta 
+para desenvolver uma hipótese, prototipar uma 
+ideia e testá-la rapidamente com o mínimo de 
+investimento possível em um ambiente o mais real 
+possível.
+
+Metodologia de Design Sprint
+O Design Sprint segue seis fases: Compreender, Definir,
+Esboçar, Decidir, Prototipar e Validar.
+
+Fase compreender: é comumente utilizado o Método Lightning
+Talk especialistas em conhecimento em toda a empresa são
+convidados a articular o espaço do problema dos ângulos de
+negócios, usuários, concorrentes e tecnológicos.
+
+Na fase Definir, a equipe avalia tudo o que aprendeu
+na fase Compreender para estabelecer o foco. Isso é
+feito definindo o contexto específico e os resultados
+desejados de soluções potenciais. A fase termina
+escolhendo um foco específico para o seu Sprint,
+ bem como metas, métricas de sucesso e sinais.
+
+Na fase Esboço: a equipe do Design Sprint gera e 
+compartilha uma ampla gama de ideias individualmente.
+Você começará procurando inspiração, como soluções em 
+espaços alternativos. Em seguida, cada participante do
+Design Sprint gerará individualmente ideias para
+consideração. A partir daí, a equipe reduzirá as 
+ideias como grupo a um único esboço de solução bem 
+articulado por pessoa.
+
+Na fase Decidir, a equipe do Design Sprint finaliza
+a direção ou conceito a ser prototipado. 
+Cada participante compartilhará seu esboço de 
+solução e a equipe encontrará consenso sobre uma
+única ideia por meio de exercícios de tomada de 
+decisão. A direção final terá como objetivo abordar
+o foco do Design Sprint.
+
+Na fase de Protótipo, a equipe do Design Sprint
+trabalhará em conjunto para criar um protótipo do
+seu conceito. É quando muitas decisões são tomadas
+em torno do que exatamente o conceito é e inclui. 
+Você terá como objetivo criar um protótipo que seja
+real o suficiente para validar e fará isso muito 
+rápido!
+
+
+------ PLANEJAR SPRINTS DE DESIGN -------
+
+Vamos recapitular os fundamentos do planejamento de um
+ sprint. Para se preparar para um sprint de design, 
+você precisará conduzir uma pesquisa com usuários, 
+agendar falas de especialistas, encontrar o espaço 
+certo, reunir suprimentos, estabelecer regras básicas,
+ fazer a equipe se apresentar e planejar ações 
+pós-sprint
+
+
+Pontos Importântes
+• Apresentação de um sprint de design

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contas Aritiméticas</title>
+    <style>
+        body{
+            text-align: center;
+            background-color: rgb(193, 192, 253);
+        }
+
+        input{
+            border: none;
+            height: 20px;
+        }
+
+        .btn{
+            width: 30px;
+            height: 30px;  
+        }
+    </style>
+</head>
+<body>
+    <h1>Testando funções (Arrow function)</h1>
+
+    <label>Número 1: </label>
+    <input type="text" id="num1"><br><br>
+    <label>Número 2: </label>
+    <input type="text" id="num2">
+    <br><br>
+    <input type="button" class="btn" id="soma" value="+"> 
+    <input type="button" class="btn" id="subtracao" value="-">
+    <input type="button" class="btn" id="multiplicacao" value="x">
+    <input type="button" class="btn" id="divisao" value="/">
+    <p> O resultado é: </p>
+
+    <script>
+        document.querySelector('#soma').addEventListener('click', ()=>{
+            let num1 = document.querySelector('#num1').value;
+            let num2 = document.querySelector('#num2').value;
+            let resposta = document.querySelector('p');
+
+            let operacao = parseFloat(num1) + parseFloat(num2);
+            resposta.innerHTML = "O resultado é: " + operacao;
+
+        });
+
+        document.querySelector('#subtracao').addEventListener('click', ()=>{
+            let num1 = document.querySelector('#num1').value;
+            let num2 = document.querySelector('#num2').value;
+            let resposta = document.querySelector('p');
+
+            let operacao = parseFloat(num1) - parseFloat(num2);
+            resposta.innerHTML = "O resultado é: " + operacao;
+
+        });
+
+        document.querySelector('#multiplicacao').addEventListener('click', ()=>{
+            let num1 = document.querySelector('#num1').value;
+            let num2 = document.querySelector('#num2').value;
+            let resposta = document.querySelector('p');
+
+            let operacao = parseFloat(num1) * parseFloat(num2);
+            resposta.innerHTML = "O resultado é: " + operacao;
+
+        });
+
+        document.querySelector('#divisao').addEventListener('click', ()=>{
+            let num1 = document.querySelector('#num1').value;
+            let num2 = document.querySelector('#num2').value;
+            let resposta = document.querySelector('p');
+
+            let operacao = parseFloat(num1) / parseFloat(num2);
+            resposta.innerHTML = "O resultado é: " + operacao;
+
+        });
+    </script>
+</body>
+</html>

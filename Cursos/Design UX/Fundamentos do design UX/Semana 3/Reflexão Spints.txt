@@ -1,0 +1,58 @@
+A retrospectiva é uma crítica colaborativa do sprint de design da equipe. 
+Normalmente, as reuniões retrospectivas são feitas logo após o sprint, para
+que os pensamentos de todos estejam frescos. As reuniões de retrospectiva
+não têm uma pauta específica. O objetivo é garantir que todos que participaram
+do sprint tenham a chance de dar feedback. As duas perguntas-chave para responder
+na reunião são: "O que deu certo?" e. "O que pode melhorar?"
+
+Imediatamente após o sprint de design, sua equipe deve fazer uma retrospectiva.
+Uma retrospectiva é uma crítica colaborativa do sprint de design. O objetivo da
+retrospectiva é garantir que todos os participantes do sprint possam dar feedback 
+e pensar em como melhorar. 
+
+O que deu certo?
+
+Comece a retrospectiva discutindo as partes do sprint de design que tiveram êxito
+e as áreas em que a equipe se saiu bem. Talvez um novo processo tenha sido criado
+para ser aplicado em sprints futuros. Ou talvez a introdução de uma nova ferramenta
+digital tenha aumentado a produtividade da equipe. Analise as vitórias da sua
+equipe e pense em como elas podem ser aplicadas em sprints futuros.
+
+Estas são algumas das perguntas que você pode fazer durante esta parte da
+retrospectiva:
+
+Quais ferramentas poupam mais tempo e esforço?
+
+Quando você sentiu mais satisfação?
+
+O que ajudou você a dar sua melhor contribuição à equipe durante este sprint?
+
+Este também é um bom momento para reconhecer o bom desempenho de um membro da
+equipe. Comemorar o sucesso é uma maneira de fortalecer relacionamentos e aumentar
+a coesão e harmonia da equipe!
+
+O que pode ser melhorado?
+
+Depois de destacar tudo que deu certo, é hora de mudar a perspectiva e pensar nas áreas que precisam melhorar. Para que todos vocês possam fazer um trabalho melhor da próxima vez, a equipe precisa saber o que deu errado. 
+
+Incentive todos a compartilhar que áreas precisam ser melhoradas. Vocês podem até se revezar em um círculo e adicionar desafios em uma lista compartilhada. Se alguém se sentir inseguro para falar, peça para cada pessoa escrever seus pensamentos anonimamente em notas adesivas individuais. Depois, todos os pontos a serem melhorados poderão ser revisados juntos. Isso evita qualquer preocupação de que algo pareça ofensivo e reduz a chance de haver um pensamento de grupo. O pensamento de grupo pode ocorrer em uma discussão quando uma pessoa compartilha uma opinião e todos imediatamente concordam com essa opinião, em vez de compartilhar seus próprios sentimentos sobre um tópico. O pensamento de grupo impede que todos tenham o mesmo poder de fala e evita que certas áreas que precisam melhorar sejam negligenciadas.
+
+Ao estruturar o feedback, considere cada fase do sprint de design: compreensão, idealização, decisão, protótipo e teste. Quando houve equívocos? O que causou esses obstáculos? Compartilhe sua opinião caso uma ou duas fases não ocorram de acordo com o planejado. 
+
+Estas são algumas das perguntas que você pode fazer durante esta parte da retrospectiva:
+
+O que deu errado e pegou você de surpresa?
+
+Quais problemas surgiram com mais frequência?
+
+Qual você acha que foi o maior desafio da equipe?
+
+Depois, examine o resultado ou produto final do sprint e faça perguntas como:
+
+A equipe superestimou ou subestimou o trabalho necessário para concluir o projeto?
+
+Houve algum fator externo que atrapalhou a produtividade?
+
+E, o mais importante, o design final realmente resolve o problema do usuário?
+
+Identifique como a equipe poderia ter encontrado uma solução melhor. 

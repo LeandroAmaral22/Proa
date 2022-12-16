@@ -1,0 +1,12 @@
+Ideias para instrução de projeto Mobile
+
+1 - Criar um aplicativo móvel de bilheteria para um cinema
+2 - Criar um aplicativo de vendas móvel para uma padaria
+3 - Criar um aplicativo de avaliação de alimentos para um food truck de luxo
+4 - Criar um aplicativo de catálogo de flores para um florista
+5 - Criar um aplicativo de rastreamento de avaliações para uma cafeteria em sua cidade favorita
+6 - Criar um aplicativo de pedidos de lanches para um cinema
+7 - Criar um aplicativo de vendas móvel para uma florista
+8 - Criar um aplicativo de trailers de filmes para um cinema
+9 - Criar um aplicativo de gerenciamento de clientes para um hospital
+10 - Criar um aplicativo de gerenciamento de estoque para uma churrascaria australiana

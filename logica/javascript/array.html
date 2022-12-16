@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Array</title>
+</head>
+<body>
+    <h1>Conjunto testando</h1>
+    <script>
+        let ListaNumeros = [8,2,6,3,1]; //array (lista)
+
+        ListaNumeros[2] = 4;
+
+        ListaNumeros.push(10); // Insere o valor na última posição
+        document.write(ListaNumeros);
+
+        /*document.write("<br>");
+        ListaNumeros.sort(); // Coloca a lista em ordem
+        document.write(ListaNumeros);*/
+
+       document.write("<br>" + ListaNumeros.length); // Tamanho da lista
+
+       for(let i=0; i<ListaNumeros.length; i++){
+            document.write("<br>A posição " + i + " tem o valor: " + ListaNumeros[i]);
+       }
+
+    //    document.write("<br>" + "O primeiro valor da lista é: " + ListaNumeros[0]);
+    </script>
+</body>
+</html>

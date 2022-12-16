@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 1 - JavaScript</title>
+</head>
+<body>
+    <h1>Exercício 1</h1>
+
+    <script>
+        let n1 = parseFloat(prompt("Informe um número: "));
+        let n2 = parseFloat(prompt("Informe outro número: "));
+
+        let soma = n1 + n2;
+        let subtracao = n1 - n2;
+        let multiplicacao = n1 * n2;
+        let divisao = (n1 / n2).toFixed(2);
+
+        document.write("Soma: " + n1 + " + " + n2 + " = " + soma);
+        document.write("<br>" + "Subtração: " + n1 + " - " + n2 + " = " + subtracao);
+        document.write("<br>" + "Multiplicação: " + n1 + " x " + n2 + " = " + multiplicacao);
+        document.write("<br>" + "Divisão: " + n1 + " / " + n2 + " = " + divisao);
+    </script>
+</body>
+</html>

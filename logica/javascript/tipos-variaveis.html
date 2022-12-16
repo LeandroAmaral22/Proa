@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tipos de Variáveis</title>
+</head>
+<body>
+    <h1> Tipos de variável</h1>
+    <script>
+        let numero = 20 // number literal
+        let nome = "Querido(a) Usuário(a)"; // string literal
+        let SituacaoAluno = true; // boolean que recebe true ou false
+        let dado1 // indefinido
+        let CorSelecionada = null // quando a informação será definida
+        let peso = prompt("Informe seu peso: ")
+        let altura = prompt("Informe sua altura: ")
+
+        let imc = (peso / (altura * altura)).toFixed(2); // toFixed definição de casas decimais
+        //let imc = peso / Math.pow(altura, 2);
+        //document.write("Seu imc é: " + (Math.round(imc, 2)));
+
+        document.write("Seu imc é: " + imc);
+    </script>
+</body>
+</html>

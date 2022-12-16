@@ -1,0 +1,45 @@
+---- A origem dos banco de dados ----
+-> década de 50 os dados eram guardados em papel, as fichas são registros, pastas tabelas, armarios arquivos 
+-> Os dados eram guardados em arquivos sequencial
+-> Após surgiu os discos e hds. 
+-> década de 60 o Departamento de Defesa dos EUA, 
+criou uma tarefa para armazenar dados de maneira segura e eficiente
+-> Criou um evento CODASIL
+-> Surgimento da linguagem COBOL -> lógica e estruras de dados.
+-> Surgimento de uma nova tecologia -> Banco de dados
+-> BD é composto pela Base da Dados, Sistema Gerenciador, Linguagem de Exploração, Programas Adicionais
+-> IBM valiosa para construção do Banco de Dados
+-> Dados hierárquicos de maneira simplista -> primeiro modelo proposto pela IBM
+-> Modelos em rede -> Segundo pela IBM
+-> Década de 70 propos um novo modelo com relacionamentos
+-> Modelo Relacional
+-> SEQUEL
+-> SQL - (Structured Query Language) linguagem de consulta
+-> Oracle, IBM, dBase, SQL Server
+-> MySQL - gratuito que pertence a Oracle
+-> MariaDB, PostGressSQL
+
+
+--- 10 Conceitos de BD ---
+
+Coleção de dados organizadas e armazenada em um disco fisico.
+Arquivos armazenado com um software especifico que permite o acesso
+Base de Dados
+
+2 SGBD - Sistema de Gerenciamento de Bando de Dados
+3 Importância da Modelagem de Dados
+4 Tabelas, Linhas e Colunas
+5 SQL - Structured Query Language
+6 Chave - Coluna especial (Primária, Surrogada, Estrangeira, Candidata, Composta..)
+7 Índices - esrtuturas que cria em uma tabela para otimizar consultas
+8 Bakup e Restauração
+9 DER (Diagrana de Entidade e Relacionamento) e MER (Modelo de Entidade e Relacionamento)
+10 Bancos Não Relacionais (NoSQL) MongoDB, Cassandra, Redis
+
+--- Bancos de dados Relacionais e Não Relacionais ---
+
+
+
+
+
+

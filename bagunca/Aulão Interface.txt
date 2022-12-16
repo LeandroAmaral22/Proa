@@ -1,0 +1,60 @@
+Design Patterns - padrões de desenvolvimento.
+Designio - ideia de realizar algo, propósta...
+Design - consepções com o objetivo de gerar intenções, 
+cria sensações areladas da forma que constrí algo. Está relacionados
+também a culturas.
+
+Interfaces -> é o meio de comunicação, no qual pode ter diferentes
+movimentos.
+
+4 P's - Pesquisa; Público alvo; Produto ou Serviço; 
+
+Pesquisas
+1. Entender o assunto
+2. Público alvo
+3. Comunicação do público alvo
+4. Construir uma personalidade
+
+Identidade visual é de suma importância.
+
+1 - Prioridade de leitura
+2 - Guia para o usuário
+3 - Informar algo para o usuáro evoluir
+
+Quadrinhos para ler
+Pilulas azuis
+Vishnu
+Três dedos
+
+Bandersnatch - filme
+
+Livro - Psicologia das cores.
+
+Conceito Form Wizard - é uma forma de evolução e icentivo para que
+o usuário continue preenchendo as informações.
+
+Tipografia -> tipos de fontes
+
+LGPD - Lei Geral de Proteção de Dados
+
+Experiência Satisfatória -> ENGAJAMENTO -> Marketing & Desenvolvimento
+
+Se desse um milhão nós iremos investir em uma análise de dados, para saber
+onde aplicar a quantia
+
+Machine Learning -> aprendizado de máquinas, formato de inteligência artificial
+que utiliza dados.
+
+Demoday
+- Gráficos
+- Tabelas
+- Diagramas - orientação gráfica, guia
+- Mapas
+- Infográficos
+- Painéis - relatórios
+
+Ferramentas para montar gráficos
+https://www.highcharts.com
+https://developers.google.com/chart
+ 
+ 

@@ -1,0 +1,5 @@
+https://imasters.com.br/data/tipos-de-dados-do-mysql-50#:~:text=Tipos%20de%20Dados%20Suportados%20Pelo%20MySQL,-O%20MySQL%20suporta&text=São%20eles%3A%20BIT%2C%20TINYINT%2C,%2C%20INT%2C%20MEDIUMINT%20e%20BIGINT.
+
+http://www.bosontreinamentos.com.br/mysql/mysql-tipos-de-dados-comuns-09/
+
+https://www.devmedia.com.br/data-type-mysql-entendo-o-mysql-e-seus-data-type/22412

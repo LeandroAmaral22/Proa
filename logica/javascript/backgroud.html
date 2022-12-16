@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: burlywood;
+            color: #005;
+            text-align: center;
+        }
+
+        #myImage {
+            width: 500px;
+            height: auto;
+            margin: auto;
+            border-radius: 10px;
+        }
+
+    </style>
+</head>
+<body id="fundo">
+    <h1>Testando mudança de cor da Body, cor da fonte e imagens da página</h1>
+    <input type="button" id="verde" value="fundo verde" onclick="verde()">
+    <input type="button" id="azul" value="fundo azul" onclick="azul()">
+    <input type="button" id="vermelho" value="fundo vermelho" onclick="vermelho()">
+    <hr>
+    <img src="img/paisagem.jpg" id="myImage">
+
+    <script>
+        function verde(){
+            document.getElementById("fundo").style.backgroundColor="green";
+            document.getElementById("fundo").style.color="white";
+            document.getElementById("myImage").src="img/breaking-bad.jpg";    
+        }
+
+        function azul(){
+            document.getElementById("fundo").style.backgroundColor="blue";
+            document.getElementById("fundo").style.color="white";
+            document.getElementById("myImage").src="img/capitao-america.jpg";    
+        }
+
+        function vermelho(){
+            document.getElementById("fundo").style.backgroundColor="red";
+            document.getElementById("fundo").style.color="white";
+            document.getElementById("myImage").src="img/miranha.jpg";    
+        }
+    </script>
+</body>
+</html>

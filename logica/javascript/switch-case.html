@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Switch Case</title>
+</head>
+<body>
+    <h1> Testando Switch Case</h1>
+
+    <script>
+        
+        //Exercício 1 - Semáforo
+
+        /*let CorSemafaro = prompt("Informe a cor do semáforo: ");
+
+        switch(CorSemafaro){
+            case "verde": document.write("Prossiga!");
+            break;
+            case "amarelo": document.write("Atenção!");
+            break;
+            case "vermelho": document.write("Pare!");
+            break;
+            default: document.write("Cor inválida!");
+        }*/
+
+        let cargo = parseInt(prompt("Selecione uma opção (1)-Diretor (2)-Gerente (3)-Supervisor (4)-Assistente :"));
+
+        switch(cargo){
+            case 1: document.write("Bem vindo Diretor!");
+            break;
+            case 2: document.write("Bem vindo Gerente!");
+            break;
+            case 3: document.write("Bem vindo Supervisor!");
+            break;
+            case 4: document.write("Bem vindo Assistente!");
+            break;
+            default: document.write("Opção Inválida");
+        }
+    </script>
+</body>
+</html>

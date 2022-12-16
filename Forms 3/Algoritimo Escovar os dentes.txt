@@ -1,0 +1,41 @@
+Escovar os dentes
+
+- Ir ao banheiro
+- Porta está aberta? (Não) - Espera
+(Sim)
+- Entrar no banheiro
+- Acender a luz
+- Fechar a porta
+- Abrir o armario
+- Pegar a escova
+- Pegar a pasta
+- Abrir a pasta
+- Passar a pasta na escova
+- Fechar a pasta
+- Guardar a pasta no armario
+- Fechar a porta do armario
+- Abir a boca
+- Direcionar a escova na boca
+- Fazer movimentos circular com a escova nos dentes
+- Passar a escova na lingua
+- Guspir a espuma na pia
+- Abrir a torneira
+- Lavar a escova
+- Colocar a escova do lado na pia
+- Levar as duas mão a saída de agua da torneira
+- Pegar agua
+- Lavar a boca com agua
+- Boca lavada? (Não) Retorna 1 passo
+(Sim)
+- Fechar a torneira
+- Pegar a toalha
+- Secar a boca
+- Secar a escova com a toalha
+- Pendurar a toalha
+- Abrir a porta do armário
+- Guardar a escova
+- Fechar a porta do armário
+- Abrir a porta do banheiro
+- Apagar a luz
+- Sair do banheiro
+FIM
